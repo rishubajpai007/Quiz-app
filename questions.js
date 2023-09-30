@@ -56,4 +56,4 @@ let questions = [
   }
 ];
 
-// You can use this code to display and manage these questions in your quiz app.
+
